@@ -1,2 +1,3 @@
-# Detective_gamedesign
-Repository per il videogioco dell' esame di Game Design.
+# Stellar Stingers
+Videogioco Arcade 2D realizzato in Unity.
+Progetto d'esame di User Experience e Grafica 2D.
